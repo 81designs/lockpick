@@ -24,7 +24,7 @@ You may need to use ```sudo``` if you are installing against the system Ruby...
     
 Or clone this repo:
 
-    $ git clone https://github.com/fredjean/lockpick.git
+    $ git clone https://github.com/81designs/lockpick.git
 
 You will probably need to run ```bundle install``` if you choose that path...
 
