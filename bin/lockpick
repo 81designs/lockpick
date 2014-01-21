@@ -14,6 +14,7 @@ require 'main'
 require 'yaml'
 require 'digest'
 require 'map'
+require 'certified'
 
 Main {
   config({

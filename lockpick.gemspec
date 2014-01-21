@@ -23,7 +23,9 @@ Gem::Specification.new do |spec|
   spec.add_dependency "main"
   spec.add_dependency "map"
   spec.add_dependency "pry"
-  spec.add_dependency "github_api"
+  spec.add_dependency "certified", '~> 0.1.1'
+  spec.add_dependency "faraday", '0.8.8'
+  spec.add_dependency "github_api", '0.10.2'
   spec.add_dependency "arrayfields", '~> 4.7.4'
 
   spec.add_development_dependency "bundler", "~> 1.3"
